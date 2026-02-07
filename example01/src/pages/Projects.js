@@ -1,4 +1,4 @@
-// src/pages/About.js
+// src/pages/Projects.js
 import React from 'react';
 import image1 from '../images/AI-OS.png';
 import image2 from '../images/Yoga.png';

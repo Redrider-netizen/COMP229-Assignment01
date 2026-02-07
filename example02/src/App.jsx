@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Democomponent from './DemoComponent'
+import DemoComponent from './DemoComponent'
 import Demo2Component from './Demo2Component'
 import IngredientsList from './IngredientsList'
 import IngredientsListDynamic from './IngredientsListDynamic'
@@ -33,11 +33,11 @@ function App() {
     <div>
       <IngredientsListDynamic items={itemsList}/>
       <IngredientsList items={data}/>
-      <Democomponent />
+      <DemoComponent />
       <Demo2Component />
     </div>
 
   )
 }
 
-export default App
+export default App;

@@ -1,4 +1,4 @@
-// src/pages/About.js
+// src/pages/Services.js
 import React from 'react';
 import image1 from '../images/pexels-michael-morse-2606402.jpg';
 import image2 from '../images/istockphoto-1169929038-612x612.jpg';

@@ -1,6 +1,6 @@
 
-function Democomponent (){
-    return(
+function DemoComponent () {
+    return (
         <div>
             <h1>Demo Component</h1>
             <p>Hello World from Demo Component!</p>
@@ -8,4 +8,4 @@ function Democomponent (){
     );
 }
 
-export default Democomponent;
+export default DemoComponent;
